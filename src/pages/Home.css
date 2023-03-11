@@ -1,0 +1,110 @@
+.header_bg3 {
+    height: 50vw;
+    max-height: 90vh;
+    background-image: url('https://static.mk.ru/upload/entities/2019/07/08/17/photoreportsImages/detailPicture/dc/ef/da/2a/4062128_9900769.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    }
+
+
+    
+    .btn1 {
+        display: block;
+        color: white;
+        font-size: 17px;
+        text-align: center;
+        letter-spacing: 0.1em;
+        padding: 17px 47px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 152px;
+        transition: all 0.5s ease;
+        margin-left: 40px;
+        background-color: #343a40 !important;
+    }
+    
+    
+    hr {
+        margin: 5px;
+    }
+    
+    
+    
+    .btn2 {
+        display: block;
+        color: white;
+        font-size: 17px;
+        text-align: center;
+        letter-spacing: 0.1em;
+        padding: 17px 47px;
+        border: 1px solid rgb(5, 5, 5);
+        width: 152px;
+        transition: all 0.5s ease;
+        margin-left: 1398px;
+        background-color: #343a40 !important;
+    }
+    
+    .contact-page {
+        width: 100%;
+        max-width: 1400px;
+        padding: 50px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    h2 {
+        width: 100%;
+        margin-bottom: 40px;
+        text-transform: uppercase;
+        color: rgb(255, 255, 255);
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .contact-info, .contact-form {
+        flex: 1;
+    }
+    
+    .item {
+        margin-bottom: 24px;
+        font-size: 16px;
+        color: rgb(238, 238, 238);
+        text-align: center;
+    }
+    
+    .contact-form {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+    .textb {
+        width: calc(50% - 10px);
+        height: 50px;
+        padding: 12px;
+        background-color: #222;
+        border: none;
+        color: #fff;
+        margin-bottom: 20px
+    }
+    textarea {
+        width: 100%;
+        min-height: 200px;
+        max-height: 400px;
+        padding: 12px;
+        background-color: #222;
+        border: none;
+        color: #fff;
+        margin-bottom: 20px;
+    }
+    
+    .tnp {
+        width: 120px;
+        height: 40px;
+        margin-left: auto;
+        background-color: #3494db;
+        border: none;
+        color: #fff;
+        text-transform: uppercase;
+        cursor: pointer;
+    }
